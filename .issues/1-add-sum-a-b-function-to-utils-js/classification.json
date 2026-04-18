@@ -1,0 +1,7 @@
+{
+  "issue_type": "feature",
+  "severity": "low",
+  "richness": "rich",
+  "title_slug": "add-sum-a-b-function-to-utils-js",
+  "reasoning": "User requests adding a sum(a, b) function to utils.js with clear acceptance criteria for export and behavior"
+}
