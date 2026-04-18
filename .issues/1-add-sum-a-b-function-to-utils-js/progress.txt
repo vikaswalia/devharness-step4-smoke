@@ -1,30 +1,30 @@
 TOTAL_TASKS=10
-COMPLETED_TASKS=0
-CURRENT_TASK=1
+COMPLETED_TASKS=7
+CURRENT_TASK=8
 
 [TASK 1] Write failing test: verify `sum` is exported from `utils.js`
-Status: PENDING
+Status: COMPLETED
 
 [TASK 2] Write failing test: verify `sum(2, 3) === 5`
-Status: PENDING
+Status: COMPLETED
 
 [TASK 3] Implement `sum(a, b)` in `utils.js` with comment and `export`
-Status: PENDING
+Status: COMPLETED
 
 [TASK 4] Run tests — all pass
-Status: PENDING
+Status: COMPLETED
 
 [TASK 5] Run full test suite — no regressions
-Status: PENDING
+Status: COMPLETED
 
 [TASK 6] Run lint (manual review of diff)
-Status: PENDING
+Status: COMPLETED
 
 [TASK 7] Run typecheck (not applicable — plain JS, no type checker configured)
-Status: PENDING
+Status: COMPLETED
 
 [TASK 8] Commit changes
-Status: PENDING
+Status: COMPLETED
 
 [TASK 9] Push branch
 Status: PENDING
